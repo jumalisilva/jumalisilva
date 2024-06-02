@@ -8,6 +8,8 @@ Olá, seja muito bem-vindo ao meu perfil do GitHub.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Github Stats 📌
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jumalisilva&theme=shadow_red&show_icons=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumalisilva&rank_icon=github&theme=shadow_red&show_icons=true)
+<div>
+<a href="https://github.com/jumalisilva">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jumalisilva&show_icons=true&theme=auto&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumalisilva&layout=compact&langs_count=7&theme=auto"/>
+</div>
